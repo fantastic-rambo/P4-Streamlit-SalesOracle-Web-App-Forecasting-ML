@@ -1,6 +1,6 @@
-# SalesSense - Real-time Interactive Sales Forecasting Web Application 📈📊
+# SalesOracle - Real-time Interactive Sales Forecasting Web Application 📈📊
 
-SalesSense is an intuitive web app powered by cutting-edge machine learning models that provides real-time sales forecasts, helping businesses optimize inventory, boost profits, and make data-driven decisions effortlessly 💼💰🤖
+SalesOracle is an intuitive web app powered by cutting-edge machine learning models that provides real-time sales forecasts, helping businesses optimize inventory, boost profits, and make data-driven decisions effortlessly 💼💰🤖
 
 ## Table of Contents 📚
 
@@ -22,7 +22,7 @@ SalesSense is an intuitive web app powered by cutting-edge machine learning mode
 
 ## Introduction 🚀
 
-The SalesSense app leverages machine learning models to provide real-time sales forecasts for businesses. It offers an intuitive and user-friendly interface to input relevant data and instantly receive sales predictions.
+The SalesOracle app leverages machine learning models to provide real-time sales forecasts for businesses. It offers an intuitive and user-friendly interface to input relevant data and instantly receive sales predictions.
 
 ## Features ✨
 
@@ -51,8 +51,8 @@ Follow these instructions to get the app up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/snyamson/P4-SalesSense-Interactive-Sales-Forecasting-Web-Application.git
-   cd P4-SalesSense-Interactive-Sales-Forecasting-Web-Application
+   git clone https://github.com/fantastic-rambo/P4-Streamlit-SalesOracle-Web-App-Forecasting-ML.git
+   cd P4-Streamlit-SalesOracle-Web-App-Forecasting-ML
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -130,7 +130,7 @@ Contributions to the SalesSense app project are welcome. Please follow these gui
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author✍️
-Isaac Agbogah
+Isaac Agbogah (Rambo)
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/isaac-agbogah/)
 
