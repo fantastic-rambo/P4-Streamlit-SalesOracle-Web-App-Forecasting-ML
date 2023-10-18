@@ -1,12 +1,12 @@
 absl-py==1.4.0
 anyio==3.7.1
-
+arch==6.1.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 asttokens==2.2.1
 astunparse==1.6.3
-#async-lru==2.0.4
+async-lru==2.0.4
 attrs==23.1.0
 Babel==2.12.1
 backcall==0.2.0
@@ -131,7 +131,7 @@ python-dotenv==1.0.0
 python-json-logger==2.0.7
 pytz==2023.3
 PyWavelets==1.4.1
-# pywin32==306
+pywin32==306
 pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.0
